@@ -4,7 +4,26 @@ Def des champs de la BD proposée
 
 Batch de production : information sur le lot de provenance du produit.
 
+Client : renseignement du client qui est équipé de composant. 
+
 Déverminage : procédure permettant de test les  composants avant d'entrer en service. 
 	[TO DO]
 
-Client : renseignement du client qui est équipé de composant.
+Composant : info sur le composant
+
+Documentation Mise en place initiale : fichier/pdf->rapport sur la mise en place
+
+DR ???
+
+Emplacement : géolocalisation d'un composant
+
+Environement ???
+
+Etat matèriel : etat du matèriel courant
+
+Facturation : renseignement sur la facture
+			jalon associer, OE associé ???
+
+Famille de composant : renseignelent sur famille du composant
+
+
