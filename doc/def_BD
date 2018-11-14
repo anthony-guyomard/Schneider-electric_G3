@@ -1,0 +1,10 @@
+Def des champs de la BD proposée
+
+
+
+Batch de production : information sur le lot de provenance du produit.
+
+Déverminage : procédure permettant de test les  composants avant d'entrer en service. 
+	[TO DO]
+
+Client : renseignement du client qui est équipé de composant.
